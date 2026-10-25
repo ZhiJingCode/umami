@@ -84,6 +84,7 @@
     "@umami/api-client": "workspace:*",
     "@umami/mcp": "workspace:*",
     "@umami/react-zen": "^0.254.0",
+    "@vercel/analytics": "^2.0.1",
     "bcryptjs": "^3.0.2",
     "chalk": "^5.6.2",
     "chart.js": "^4.5.1",
